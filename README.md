@@ -3,6 +3,9 @@
 Hello , this from branch 1. :)
 
 Example python code
+
+```python
+
 #!/home/shankar/.pyenv/shims/python
 
 # The Keys class provide keys in the keyboard like RETURN, F1, ALT etc.
@@ -138,9 +141,4 @@ enter_pin(pin_number)
 enter_temperature()
 submit()
 go_back_to_start()
-
-# To be safe, we’ll first clear any pre-populated text in the input field
-
-# (e.g. “Search”) so it doesn’t affect our search results:
-
-# driver.close()
+```
